@@ -1,0 +1,17 @@
+.login{
+    display:flex ;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    flex-direction: column;
+    border: 5px solid lightskyblue;
+
+}
+
+.border{
+    margin: 10px;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+
+}
